@@ -6,6 +6,8 @@ This project demonstrates how a Java web application can be built and deployed u
 
 The project uses AWS EC2, GitHub, Jenkins, Maven, Docker, and Apache Tomcat. Two EC2 instances separate the build process from the application runtime: one runs Jenkins, while the other is prepared for Docker deployment.
 
+Source code: [GitHub Repository: registration-app](https://github.com/antarctic672/registration-app?utm_source=chatgpt.com)
+
 ## Architecture
 
 **GitHub**
