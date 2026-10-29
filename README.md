@@ -87,6 +87,21 @@ I used username/password authentication for SSH access to Docker-Host. After set
 
 I found conflicting settings: the main SSH configuration file allowed password authentication, while another configuration file disabled it(it was an additional configuration file from AWS, embedded into VPS).
 
+### The result
+
+<img width="1920" height="1080" alt="Screenshot_20261028_175047" src="https://github.com/user-attachments/assets/290ce2e8-c0b4-4179-ad42-809507b7f971" />
+
+<img width="1920" height="1080" alt="Screenshot_20261028_175058" src="https://github.com/user-attachments/assets/c2c5323d-37d4-4dab-90e4-ebbb9522a7f9" />
+
+<img width="1920" height="1080" alt="Screenshot_20261028_175106" src="https://github.com/user-attachments/assets/fd6e5c2a-bcd8-4f68-8d8e-560a90a3c5f2" />
+
+<img width="1920" height="1080" alt="Screenshot_20261028_175128" src="https://github.com/user-attachments/assets/33525b41-64b3-49f3-a8b3-bcdc80e8fb0e" />
+
+<img width="1920" height="1080" alt="Screenshot_20261028_175204" src="https://github.com/user-attachments/assets/4a442f6b-cff9-40fc-9980-d52b2054f0f9" />
+
+<img width="1920" height="1080" alt="Screenshot_20261028_175248" src="https://github.com/user-attachments/assets/a828ab2e-7606-418f-810b-c15bde85cd9f" />
+
+
 ## Project Goals and Outcomes
 
 The project provided practical experience with:
